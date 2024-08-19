@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshops Attended",
+    "section": "",
+    "text": "2024\n\nAdvanced Tools for Literate Programming and Machine Learning, August 6-7, 2024"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Visual Code Studio Extentions to Boost Your Productivity\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\nAug 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nTop 10 must watch Movies\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\nAug 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nA sample work\n\n\n\n\n\n\nblog with code\n\n\n\n\n\n\n\n\n\nFeb 7, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post_with_code.html",
+    "href": "posts/post_with_code.html",
+    "title": "A sample work",
+    "section": "",
+    "text": "For a demonstration of a line plot on a polar axis, see Figure 1.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m a second year Computer Science and Engineering student doing minor in Computational Mathematics with a passion for pushing the boundaries of knowledge in AI. My portfolio showcases a diverse range of projects that demonstrate my ability in web dev, AI and programming. Let’s connect and explore how I can contribute to your next project."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Personal Webpage",
+    "section": "",
+    "text": "I’m\nJoel Mathew Samuel\nWelcome to my personal page! I thrive on solving complex problems and love turning innovative ideas into reality. Whether I’m coding, designing, or exploring new fields, I bring dedication and curiosity to everything I do. Outside of work, I enjoy hiking, reading fiction, and experimenting with new recipes. Here, you’ll find insights into my projects, interests, and the journey I’m on to make a positive impact in the world. Thank you for visiting, and I hope you find something that inspires you!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "2024\n\nResearcher (2024). A very Cool AI Paper. arXiv 2402.10951."
+  },
+  {
+    "objectID": "posts/another_post.html",
+    "href": "posts/another_post.html",
+    "title": "Visual Code Studio Extentions to Boost Your Productivity",
+    "section": "",
+    "text": "Without extentions it would be mess during crucial moments in coding which can kill productivity.\nIn this article, I have provided a list extentions which will increase your productivity and help give more free time\nBetter Comments\nBetter Comments helps you strengthen the comments in code. Code comments are beneficial for readability, and providing explanations or context for future reference. Leaving good code comments can save others and yourself time in the future.\nCodeSnap\nCodeSnap is used to snap a screenshots of code. It can come in handy for sharing code snippets with ease.\nTo snap a shot of your code, use (Ctrl+Shift+P on Windows and Linux, Cmd+Shift+P on OS X) and search for CodeSnap. Then select the area of your code to screenshot, adjust the width, and click the shutter button. You can also take a snapshot by selecting code, right clicking, and selecting CodeSnap.\nGit History\nGit History is an extremely useful extension for version control with Git (the extension has 10 million installs, so it’s clear that it’s popular). This extension allows you to explore the detailed history of your Git repository directly from the VSCode interface. You can view file history, git log, and perform comparisons.\nIcon Themes\nWhile VSCode includes default icons, incorporating icon packs provides an excellent means to boost productivity and infuse a visually appealing aesthetic into the editor.\nThere are plenty of options when it comes to choosing an icon pack. Three popular choices are the Material Theme Icons, vscode-icons, and file-icons.\nIndent Rainbow\nIndent Rainbow is a colorful extension that you can use to make indentation comprehensible, aiding in maintaining well-organized and properly indented code.\nPrettier\nPrettier is a widely embraced code formatting tool with over 40 million installations. It provides you with a shared solution to improve code readability.\nPrettier’s integration with “format on save” in VSCode vastly increases productivity by automatically applying formatting, preventing any time spent on manual formatting concerns."
+  },
+  {
+    "objectID": "posts/post.html",
+    "href": "posts/post.html",
+    "title": "Top 10 must watch Movies",
+    "section": "",
+    "text": "Here are the list of top 5 movies that is a must watch"
+  },
+  {
+    "objectID": "posts/post.html#the-godfather",
+    "href": "posts/post.html#the-godfather",
+    "title": "Top 10 must watch Movies",
+    "section": "1.The Godfather",
+    "text": "1.The Godfather\nDirector: Francis Ford Coppola\nDon Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son, Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger."
+  },
+  {
+    "objectID": "posts/post.html#inception",
+    "href": "posts/post.html#inception",
+    "title": "Top 10 must watch Movies",
+    "section": "2. Inception",
+    "text": "2. Inception\nDirector: Christopher Nolan\nA thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster."
+  },
+  {
+    "objectID": "posts/post.html#pulp-fiction",
+    "href": "posts/post.html#pulp-fiction",
+    "title": "Top 10 must watch Movies",
+    "section": "3.Pulp Fiction",
+    "text": "3.Pulp Fiction\nDirector: Quentin Tarantino\nThe lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+  },
+  {
+    "objectID": "posts/post.html#interstellar",
+    "href": "posts/post.html#interstellar",
+    "title": "Top 10 must watch Movies",
+    "section": "4.Interstellar",
+    "text": "4.Interstellar\nDirector: Christopher Nolan\nWhen Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans."
+  },
+  {
+    "objectID": "posts/post.html#avengers-infinity-war",
+    "href": "posts/post.html#avengers-infinity-war",
+    "title": "Top 10 must watch Movies",
+    "section": "5.Avengers: Infinity War",
+    "text": "5.Avengers: Infinity War\nDirector: Russo Brothers\nThe Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."
+  }
+]

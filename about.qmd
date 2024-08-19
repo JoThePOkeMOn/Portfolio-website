@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+I'm a second year Computer Science and Engineering student doing minor in Computational Mathematics with a passion for pushing the boundaries of knowledge in AI. My portfolio showcases a diverse range of projects that demonstrate my ability in web dev, AI and programming. Let's connect and explore how I can contribute to your next project.

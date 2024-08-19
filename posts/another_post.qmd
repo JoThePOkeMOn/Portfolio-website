@@ -1,0 +1,50 @@
+---
+categories:
+- blog post
+date: 08/11/2024
+format:
+  html:
+    df-print: paged
+    toc: true
+text: In this article, I have provided a list extentions which will increase your productivity and help give more free time
+
+title: Visual Code Studio Extentions to Boost Your Productivity 
+
+---
+
+Without extentions it would be mess during crucial moments in coding which can kill productivity.
+
+In this article, I have provided a list extentions which will increase your productivity and help give more free time
+
+
+**Better Comments**
+
+Better Comments helps you strengthen the comments in code. Code comments are beneficial for readability, and providing explanations or context for future reference. Leaving good code comments can save others and yourself time in the future.
+
+**CodeSnap**
+
+CodeSnap is used to snap a screenshots of code. It can come in handy for sharing code snippets with ease.
+
+To snap a shot of your code, use (`Ctrl+Shift+P` on Windows and Linux, `Cmd+Shift+P` on OS X) and search for `CodeSnap`. Then select the area of your code to screenshot, adjust the width, and click the shutter button. You can also take a snapshot by selecting code, right clicking, and selecting CodeSnap.
+
+**Git History**
+
+Git History is an extremely useful extension for version control with Git (the extension has 10 million installs, so it's clear that it's popular). This extension allows you to explore the detailed history of your Git repository directly from the VSCode interface. You can view file history, git log, and perform comparisons.
+
+**Icon Themes**
+
+While VSCode includes default icons, incorporating icon packs provides an excellent means to boost productivity and infuse a visually appealing aesthetic into the editor.
+
+There are plenty of options when it comes to choosing an icon pack. Three popular choices are the Material Theme Icons, vscode-icons, and file-icons.
+
+**Indent Rainbow**
+
+Indent Rainbow is a colorful extension that you can use to make indentation comprehensible, aiding in maintaining well-organized and properly indented code.
+
+**Prettier**
+
+Prettier is a widely embraced code formatting tool with over 40 million installations. It provides you with a shared solution to improve code readability.
+
+Prettier's integration with "format on save" in VSCode vastly increases productivity by automatically applying formatting, preventing any time spent on manual formatting concerns.
+
+
